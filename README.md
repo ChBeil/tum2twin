@@ -18,6 +18,9 @@ To clone the repo, make sure to have [Git LFS](https://git-lfs.com/) installed a
 ```bash
 git clone --depth 1 git@gitlab.lrz.de:tum-gis/tum2twin-datasets.git
 ```
+A Cesium based web-visualization of some of the datasets contained in this repository can be accessed [here.](https://tinyurl.com/5n8n9xm4)
+Please note that due to the large amounts of data, a good internet connection is required (Google Chrome Browser is reccommended).
+
 
 The tum2twin-dataset repository contains:
 
